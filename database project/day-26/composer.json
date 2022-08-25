@@ -1,0 +1,20 @@
+{
+  "name": "day-26/day-26",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "autoload" : {
+    "psr-4": {
+      "App\\": "app//"
+    }
+  },
+  "authors": [
+    {
+      "name": "PHP with Laravel",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    
+  }
+}
